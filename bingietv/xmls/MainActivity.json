@@ -3,28 +3,27 @@
 "survey_content": "",  
 "survey_type": "",  
 "survey_link": "",  
-"left_menu_image":"https://i.imgur.com/q4pWdjg.jpg",  
+"left_menu_image":"https://i.imgur.com/q4pWdjg.jpg",   
 "lite_mode":false,
-"content_not_support_audio":"This movie has audio which is not supported by BingieTV, please install VLC player to play audio.",  
+"content_not_support_audio":"This movie has audio which is not supported by BeeTV, please install VLC player to play audio.",  
 "package_not_support_audio":"org.videolan.vlc",  
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
-"update_isforce":true,  
+"update_isforce":false,  
 "update_isapk":true,  
 "update_title":"Update new version",  
-"update_content":"if you cant update then visit the homepage (teamskorpz.github.io) to get the latest version.
+"update_content":"You cant update if you are using modded version. Please use official version on our homepage(beetvapk.me) to support developer.
 <br></br>
 <b>Release Info</b>
 <br>- Version: 2.8.9</br>
-<br>- Size: 19.7MB</br>
+<br>- Size: 18.7MB</br>
 <br></br>
-<br><b>Added more providers</b></br>
-<br>- Menu Hotfix.</br>
-<br>- Updated Icons.</br>
-<br>- Fixed some bugs.</br>",  
+<br><b>Change logs</b></br>
+<br>- Hotfix for Money Heist.</br>
+<br>- Fix bugs.</br>",  
 "update_build":"102",  
 "update_version":"2.8.9",  
-"update_link":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",  
-"update_link_android4":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/Bingie/BingieTV.apk",
+"update_link":"https://github.com/joaquincorrea8883/adw/releases/download/2.8.9/2.8.9.apk",  
+"update_link_android4":"https://dl.dropboxusercontent.com/s/q3dao798r4em5mz/2.8.3.apk",
 "pkg_uninstall":"com.medianet.gl",  
 "link_downloader":"https://archive.org/download/one_downloader_release_1015/one_downloader_release_1015.apk",
 "pkg_uninstall_247":"",
@@ -56,10 +55,10 @@
 "downloader_name":"One Downloader",
 "enable_install_player":true,
 "enable_download_adm":true,
-"title_player":"VLC Media Player",
+"title_player":"Titan Video Player",
 "description_player":"Best player to work with BingieTV!",
-"link_download_player":"https://github.com/TeamSkorpz/teamskorpz.github.io/releases/download/MX/MX-Pro-v1.36.11.Skorpz.apk",
-"package_name_player":"org.videolan.vlc",
+"link_download_player":"https://github.com/onesavercontact/agg/releases/download/1.2.1x/1.2.1x.apk",
+"package_name_player":"com.titanx.videoplayerz",
 "enable_amz":true,
 "adoech_enable":false,
 "oneplayer_version_build":"17",
